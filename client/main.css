@@ -42,7 +42,7 @@ body {
   padding: 20px;
 }
 #container {
-  height: 230px !important;
+  height: 340px !important;
   position: relative;
 }
 #container::before {
@@ -52,7 +52,7 @@ body {
   top: 0;
   width: 1px;
   border-right: 3px dashed #ffa500;
-  height: 79%;
+  height: 88%;
   background-color: white;
   z-index: 9;
   right: 25%;
